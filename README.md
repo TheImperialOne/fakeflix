@@ -22,14 +22,14 @@ This is a simple Flutter-based movie streaming app called Fakeflix. The app mimi
 5. Bottom Navigation: Provides navigation between the Home Screen and Search Screen.
 
 # Screenshots
-Splash Screen
+1. Splash Screen
 ![Splash screen](https://github.com/TheImperialOne/fakeflix/blob/master/screenshots/splash.jpeg)
-Home Screen
+2. Home Screen
 ![Home screen](https://github.com/TheImperialOne/fakeflix/blob/master/screenshots/home.jpeg)
-Search Screen
+3. Search Screen
 ![search screen 1](https://github.com/TheImperialOne/fakeflix/blob/master/screenshots/search1.jpeg)
 ![search screen 2](https://github.com/TheImperialOne/fakeflix/blob/master/screenshots/search2.jpeg)
-Details Screen
+4. Details Screen
 ![details screen 1](https://github.com/TheImperialOne/fakeflix/blob/master/screenshots/details1.jpeg)
 ![details screen 2](https://github.com/TheImperialOne/fakeflix/blob/master/screenshots/details2.jpeg)
 
