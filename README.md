@@ -23,15 +23,15 @@ This is a simple Flutter-based movie streaming app called Fakeflix. The app mimi
 
 # Screenshots
 Splash Screen
-![Splash screen](https://github.com/TheImperialOne/fakeflix/screenshots/splash.jpeg)
+![Splash screen](https://github.com/TheImperialOne/fakeflix/blob/master/screenshots/splash.jpeg)
 Home Screen
-![Home screen](https://github.com/TheImperialOne/fakeflix/screenshots/home.jpeg)
+![Home screen](https://github.com/TheImperialOne/fakeflix/blob/master/screenshots/home.jpeg)
 Search Screen
-![search screen 1](https://github.com/TheImperialOne/fakeflix/screenshots/search1.jpeg)
-![search screen 2](https://github.com/TheImperialOne/fakeflix/screenshots/search2.jpeg)
+![search screen 1](https://github.com/TheImperialOne/fakeflix/blob/master/screenshots/search1.jpeg)
+![search screen 2](https://github.com/TheImperialOne/fakeflix/blob/master/screenshots/search2.jpeg)
 Details Screen
-![details screen 1](https://github.com/TheImperialOne/fakeflix/screenshots/details1.jpeg)
-![details screen 2](https://github.com/TheImperialOne/fakeflix/screenshots/details2.jpeg)
+![details screen 1](https://github.com/TheImperialOne/fakeflix/blob/master/screenshots/details1.jpeg)
+![details screen 2](https://github.com/TheImperialOne/fakeflix/blob/master/screenshots/details2.jpeg)
 
 # Working
 
